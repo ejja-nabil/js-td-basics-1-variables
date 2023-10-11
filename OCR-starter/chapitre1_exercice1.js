@@ -5,3 +5,10 @@ Affichez dans la console :
 - votre âge (ce doit être un nombre)
 */
 
+const MyName = "Nabil";
+const age= 21;
+
+console.log(MyName);
+console.log(age);
+
+
